@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\bin\Debug\FitnessApp.BL.dll
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\bin\Debug\FitnessApp.BL.pdb
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\obj\Debug\FitnessApp.BL.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\obj\Debug\FitnessApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\obj\Debug\FitnessApp.BL.dll
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\obj\Debug\FitnessApp.BL.pdb
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\bin\Debug\System.ValueTuple.dll
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\bin\Debug\System.ValueTuple.xml
+C:\Users\Alex\source\repos\FitnessAppTest\FitnessApp.BL\obj\Debug\FitnessApp.BL.csproj.CopyComplete
